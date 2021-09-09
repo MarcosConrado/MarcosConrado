@@ -8,10 +8,17 @@
 
 
 <div>
+  
   <a href="https://github.com/MarcosConrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosconrado&layout=compact&langs_count=7&theme=dark"/>
-</div> 
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=marcosconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+</div>
+  
+  <div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Marc-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,11 +28,7 @@
  
 ## 
   
-<div> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
   
   
 <sub>Cientista de dados em evolução</sub>
