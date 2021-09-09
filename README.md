@@ -5,6 +5,14 @@
 </p>
 
 # Marcos Conrado
+
+
+<div>
+  <a href="https://github.com/MarcosConrado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosconrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosconrado&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <sub>Cientista de dados em evolução</sub>
 
 🤞 Atualmente não estou trabalhando na área mas como um grande entusiasta de tecnologia e principalmente AI, tenho focado meus estudos nessa área.
