@@ -1,4 +1,3 @@
-[![author](https://img.shields.io/badge/author-marcosconrad-red.svg)](https://www.linkedin.com/in/marcossconrado) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/marcosconrado/marcosconrado/issues)
 
 <p align="center">
   <img src="Web-Blog_PCE_DS-ML-AI.edited.jpg" >
@@ -40,16 +39,25 @@
 
 **Background in:**  🐍**Python**, 🤖**Machine Learning**, 📊**Power Bi** e 📚**SQL**.
 
-**Links:**
-  
-* [LinkedIn](https://www.linkedin.com/in/marcossconrado) 
-* [Blog]
-* [Kagle]
-* [Email] 
-
 
 ## Projetos:
+  🚧🚧
+  🚧🚧
+  🚧🚧
+  🚧🚧
 
 
 
 ---
+**Links:**
+  
+<a href = "mailto:conradomarcos128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+ target="_blank"></a>
+ <a href = "mailto:marcosconradi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+ target="_blank"></a>
+ <a href = "https://www.facebook.com/marcos.conrado.3152/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+ target="_blank"></a>
+ <a href = "https://www.linkedin.com/in/marcossconrado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+ target="_blank"></a>
+
+ [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/marcosconrado/marcosconrado/issues)
