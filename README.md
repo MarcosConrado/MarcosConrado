@@ -23,6 +23,7 @@
   <img align="center" alt="Marc-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marc-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marc-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Marc-Python" height="50" width="60" src="https://user-images.githubusercontent.com/63462988/132610420-b4041e7c-2a3f-430e-95a6-a5738841caa1.png">
 </div>
  
 ## 
