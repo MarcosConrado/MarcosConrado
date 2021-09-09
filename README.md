@@ -38,7 +38,7 @@
    Com foco na especialização em Machine Learning,Deep Learning e robótica.</p>
 
 
-**Background in:**  🐍Python, Machine Learning, 📊Power Bi e 📚SQL.
+**Background in:**  🐍**Python**, 🤖**Machine Learning**, 📊**Power Bi** e 📚**SQL**.
 
 **Links:**
   
