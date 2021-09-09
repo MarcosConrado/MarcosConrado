@@ -45,6 +45,7 @@
 * [LinkedIn](https://www.linkedin.com/in/marcossconrado) 
 * [Blog]
 * [Kagle]
+* [Email] 
 
 
 ## Projetos:
