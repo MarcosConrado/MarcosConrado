@@ -7,16 +7,16 @@
 # Marcos Conrado
 <sub>Cientista de dados em evolução</sub>
 
-Como um grande entusiasta de tecnologia e principalmente AI, tenho focado meus estudos nessa área.
+🤞 Atualmente não estou trabalhando na área mas como um grande entusiasta de tecnologia e principalmente AI, tenho focado meus estudos nessa área.
 Com foco na especialização em Machine Learning,Deep Learning e robótica.
 
 
-**Background in:** Python, Machine Learning, Power Bi e SQL.
+**Background in:** 🐍Python, 🤖Machine Learning, 📊Power Bi e 📚SQL.
 
 **Links:**
 * [Blog]
 * [LinkedIn](https://www.linkedin.com/in/marcossconrado)
-* [Medium]
+* [Email](conradomarcos128@gmail.com)
 
 
 ## Projetos:
