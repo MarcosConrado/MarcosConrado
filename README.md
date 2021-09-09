@@ -26,6 +26,7 @@
   <img align="center" alt="Marc-Python" height="50" width="60" src="https://user-images.githubusercontent.com/63462988/132610420-b4041e7c-2a3f-430e-95a6-a5738841caa1.png">
 </div>
  
+  
 ## 
   
 
@@ -37,19 +38,24 @@
   <p>Atualmente não estou trabalhando na área mas como um grande entusiasta de tecnologia e principalmente AI, tenho focado meus estudos nessa área.
    Com foco na especialização em Machine Learning,Deep Learning e robótica.</p>
 
+  <div>
+    <img align="right" alt="Mark-yoda" src="https://i.picasion.com/pic91/735db6c6f3263c04fa08a5f23b48c605.gif" hight= "150" width="250">
+  </div>
 
 **Background in:**  🐍**Python**, 🤖**Machine Learning**, 📊**Power Bi** e 📚**SQL**.
+  
+  
 
 
 ## Projetos:
-  🚧🚧
-  🚧🚧
-  🚧🚧
-  🚧🚧
-
+  <br>🚧🚧</br>
+  <br>🚧🚧</br>
+  <br>🚧🚧</br>
+  
 
 
 ---
+
 **Links:**
   
 <a href = "mailto:conradomarcos128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
