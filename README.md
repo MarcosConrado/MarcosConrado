@@ -40,6 +40,7 @@ Com foco na especialização em Machine Learning,Deep Learning e robótica.
 **Background in:** 🐍Python, 🤖Machine Learning, 📊Power Bi e 📚SQL.
 
 **Links:**
+  
 * [Blog]
 * [LinkedIn](https://www.linkedin.com/in/marcossconrado)
 * [Kagle]
