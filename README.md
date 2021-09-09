@@ -42,7 +42,7 @@ Com foco na especialização em Machine Learning,Deep Learning e robótica.
 **Links:**
 * [Blog]
 * [LinkedIn](https://www.linkedin.com/in/marcossconrado)
-* [Email](conradomarcos128@gmail.com)
+* [Kagle]
 
 
 ## Projetos:
