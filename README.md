@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/MarcosConrado/MarcosConrado/raw/main/assets/ezgif.com-gif-maker.gif" alt="Hi, I'm Marcos 👋 I'm a 🚀 Aspiring Data Scientist 🚀 I ❤️ Passionate about data ❤️">  
+</p>
 <p align="center">
   <img src="Web-Blog_PCE_DS-ML-AI.edited.jpg" >
 </p>
