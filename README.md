@@ -2,13 +2,6 @@
   <img src="https://github.com/MarcosConrado/MarcosConrado/raw/main/assets/header-github.gif" alt="Hi, I'm Marcos 👋 I'm a 🚀 Aspiring Data Scientist 🚀 I ❤️ Passionate about data ❤️">  
 </p>
 
-<p align="center">
-  <img src="Web-Blog_PCE_DS-ML-AI.edited.jpg" >
-</p>
-
-# Marcos Conrado
-
-
 <div>
   
   <a href="https://github.com/MarcosConrado">
