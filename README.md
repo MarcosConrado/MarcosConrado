@@ -2,6 +2,7 @@
   <img src="https://github.com/MarcosConrado/MarcosConrado/raw/main/assets/header-github.gif" alt="Hi, I'm Marcos 👋 I'm a 🚀 Aspiring Data Scientist 🚀 I ❤️ Passionate about data ❤️">  
 </p>
 
+
 <div>
   
   <a href="https://github.com/MarcosConrado">
@@ -9,7 +10,7 @@
     
 </div>
   
-  <div> 
+ <div> 
  
   ![Snake animation](https://github.com/MarcosConrado/MarcosConrado/blob/output/github-contribution-grid-snake.svg)
  
