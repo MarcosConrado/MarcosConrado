@@ -2,12 +2,10 @@
   <img src="https://github.com/MarcosConrado/MarcosConrado/raw/main/assets/header-github.gif" alt="Hi, I'm Marcos 👋 I'm a 🚀 Aspiring Data Scientist 🚀 I ❤️ Passionate about data ❤️">  
 </p>
 
-
-<div>
-  
+<div align= "center">  
   <a href="https://github.com/MarcosConrado">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=marcosconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosconrado&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
  <div> 
@@ -36,11 +34,9 @@
   <p>Atualmente não estou trabalhando na área mas como um grande entusiasta de tecnologia e principalmente AI, tenho focado meus estudos nessa área.
    Com foco na especialização em Machine Learning,Deep Learning e robótica.</p>
 
-  <div>
-    <img align="right" alt="Mark-yoda" src="https://i.picasion.com/pic91/735db6c6f3263c04fa08a5f23b48c605.gif" hight= "150" width="250">
-  </div>
+ 
 
-**Background in:**  🐍**Python**, 🤖**Machine Learning**, 📊**Power Bi** e 📚**SQL**.
+**Background in:** 🤖**Machine Learning**, 📊**Power Bi** e 📚**Excel**.
   
   
 
